@@ -1,10 +1,16 @@
 # 👨‍💻 Firdavs Normurodov
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Firdavs+👋;Full+Stack+Web+Developer+🚀;Linux+%26+AI+Enthusiast+🧠" alt="Typing SVG" />
-</p>
+## 🚀 About Me
 
+Hi! I'm **Firdavs Normurodov**, a **Full Stack Developer**.  
+I specialize in building modern, efficient, and visually appealing **web applications**.  
 
+- ⚡ I create **Web Apps and Websites**  
+- 🎨 I design intuitive and modern **UI/UX interfaces**  
+- ☁️ I securely deploy projects using **Linux, Docker, and Cloud solutions**  
+- 🧠 I’m passionate about **Linux and Artificial Intelligence**  
+
+---
 <p>
   <a href="https://www.linkedin.com/in/firdavs-normurodov-667a85271/">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
@@ -20,19 +26,6 @@
   </a>
 </p>
 
----
-
-## 🚀 About Me
-
-Hi! I'm **Firdavs Normurodov**, a **Full Stack Developer**.  
-I specialize in building modern, efficient, and visually appealing **web applications**.  
-
-- ⚡ I create **Web Apps and Websites**  
-- 🎨 I design intuitive and modern **UI/UX interfaces**  
-- ☁️ I securely deploy projects using **Linux, Docker, and Cloud solutions**  
-- 🧠 I’m passionate about **Linux and Artificial Intelligence**  
-
----
 
 ## 🛠 Technologies
 
