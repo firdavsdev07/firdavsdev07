@@ -1,21 +1,21 @@
 # 👨‍💻 Firdavs Normurodov
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=600&lines=Hello%2C+I+am+Firdavs+Normurodov+👋;Full-Stack+Web+Developer+🚀;Linux+%26+AI+Systems+Enthusiast+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+a+Full+Stack+Web+Developer+👋;My+name+is+Firdavs+Normurodov+✨;I+build+modern+web+apps+and+websites+🚀;I+am+passionate+about+Linux+and+AI+🧠" alt="Typing SVG" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/firdavs-normurodov-667a85271/">
-    <img src="https://cdn.simpleicons.org/linkedin/00FF00/ffffff" height="45" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   <a href="https://t.me/firdavs2407">
-    <img src="https://cdn.simpleicons.org/telegram/00FF00/ffffff" height="45" alt="Telegram" />
+    <img src="https://skillicons.dev/icons?i=telegram" height="50"/>
   </a>
   <a href="https://www.instagram.com/firdavs_flow">
-    <img src="https://cdn.simpleicons.org/instagram/00FF00/ffffff" height="45" alt="Instagram" />
+    <img src="https://skillicons.dev/icons?i=instagram" height="50"/>
   </a>
   <a href="https://firdavs-developer.uz">
-    <img src="https://cdn.simpleicons.org/googlechrome/00FF00/ffffff" height="45" alt="Portfolio" />
+    <img src="https://skillicons.dev/icons?i=vercel" height="50"/>
   </a>
 </p>
 
@@ -23,38 +23,43 @@
 
 ## 🚀 About Me
 
-Hello! I’m **Firdavs Normurodov**, a **Full Stack Developer** dedicated to crafting modern, high-quality web applications.  
+Hi! I'm **Firdavs Normurodov**, a **Full Stack Developer**.  
+I specialize in building modern, efficient, and visually appealing **web applications**.  
 
-- ⚡ I build **web apps and websites**.  
-- 🎨 I design **intuitive UI/UX** interfaces.  
-- ☁️ I deploy projects with **Linux** & **Docker**.  
-- 🧠 Passionate about **AI** and automation.  
+- ⚡ I create **Web Apps and Websites**  
+- 🎨 I design intuitive and modern **UI/UX interfaces**  
+- ☁️ I securely deploy projects using **Linux, Docker, and Cloud solutions**  
+- 🧠 I’m passionate about **Linux and Artificial Intelligence**  
 
 ---
 
-## 🛠 Technologies and Tools
+## 🛠 Technologies
 
-### Frontend  
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite&perline=9" height="50"/>
+### 🎨 Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap,vite" height="50"/>
+</p>
 
-### Backend & DevOps  
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker,linux,nginx&perline=6" height="50"/>
+### ⚙️ Backend & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,docker,linux,nginx" height="50"/>
+</p>
 
-### Databases  
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis&perline=4" height="50"/>
+### 🗄 Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,redis" height="50"/>
+</p>
 
-### Additional  
-<img src="https://skillicons.dev/icons?i=git,github,npm,pnpm,figma,c,vscode,graphql&perline=8" height="50"/>  
+### 🔧 Tools & Others
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,graphql,c,python,pnpm" height="50"/>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsdev07&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=firdavsdev07&theme=chartreuse-dark&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=00FF00&fire=00FF00&currStreakLabel=00FF00" height="160"/>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00FF00&icon_color=00FF00&text_color=00FF00" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsdev07&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF00&text_color=00FF00" height="180"/>
 </p>
