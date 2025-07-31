@@ -1,32 +1,59 @@
-<!-- Hero Gradient Banner -->
+<!-- Life 3D Cartoon Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&text=Firdavs%20Normurodov&fontAlign=50&fontAlignY=35&fontColor=ffffff&fontSize=42&desc=Full‑Stack%20JavaScript%20Developer&descAlign=50&descAlignY=60&descSize=20" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Firdavs+👋;Full‑Stack+Web+Developer+💻;Loves+3D+%2B+Cloud+%2B+AI+🚀" />
+  
+  <img src="https://i.ibb.co/QKqZ7fK/coding-cartoon.gif" width="300"/>
 </div>
 
-<!-- Typing Animation -->
+---
+
+### 🎨 About Me
+Hi, I’m **Firdavs Normurodov** –  
+I turn **ideas into interactive, cloud‑ready apps** 🌐,  
+mixing **3D visuals 🎨 + smart tech 🤖 + scalable code ⚡**.
+
+- 🔹 Building **Next.js + Nest.js** apps  
+- 🔹 Deploying with **Docker & Linux**  
+- 🔹 Loves **AI, 3D & life‑like animations**  
+
+---
+
+### ⚡ My 3D Tech Stack
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Applications;Cloud+%26+Containerization+Enthusiast;Minimalist+%26+Pixel‑Perfect+UI+Lover" />
+
+| Frontend 🎨 | Backend ⚙️ | Database 🗄 | DevOps 🛠 |
+|------------|------------|-----------|---------|
+| ![Next](https://skillicons.dev/icons?i=nextjs,react,tailwind) | ![Nest](https://skillicons.dev/icons?i=nestjs,nodejs,express) | ![DB](https://skillicons.dev/icons?i=mongodb,postgres) | ![Ops](https://skillicons.dev/icons?i=docker,linux) |
+
 </div>
 
-<!-- Social Links -->
-<p align="center">
-  <a href="https://firdavs-developer.uz"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.instagram.com/firdavs_flow"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/firdavs2407"><img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+---
 
-<!-- Tech Stack Grid -->
+### 🚀 Featured Projects
+
+🌌 **Galaxy Notes** – 3D interactive notes app with realtime sync  
+🛠 **Dockerized API** – Scalable Nest.js backend with Redis cache  
+🎨 **Life‑3D Portfolio** – Animated personal site with GSAP & Three.js
+
+---
+
+### 📊 GitHub Vibes
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,nestjs,express,mongodb,postgres,docker,linux" height="50"/>
-</div>
-
-<!-- GitHub Stats -->
-<div align="center" style="margin-top:30px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://streak-stats.demolab.com?user=firdavsdev07&theme=tokyonight&hide_border=true" height="165"/>
 </div>
 
-<!-- Profile Views -->
-<div align="center" style="margin-top:20px;">
-  <img src="https://komarev.com/ghpvc/?username=firdavsdev07&label=Profile%20Views&color=00e5ff&style=flat" alt="profile views" />
+---
+
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://firdavs-developer.uz"><img src="https://img.shields.io/badge/Portfolio-FFD700?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://t.me/firdavs2407"><img src="https://img.shields.io/badge/Telegram-30AADD?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.instagram.com/firdavs_flow"><img src="https://img.shields.io/badge/Instagram-FC2778?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=firdavsdev07&label=Profile%20Views&color=F59E0B&style=flat" alt="profile views" />
 </div>
