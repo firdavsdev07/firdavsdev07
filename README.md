@@ -1,6 +1,6 @@
 # 👨‍💻 Firdavs Normurodov
 
-## 🚀 About Me
+🚀 About Me
 
 Hi! I'm **Firdavs Normurodov**, a **Full Stack Developer**.  
 I specialize in building modern, efficient, and visually appealing **web applications**.  
