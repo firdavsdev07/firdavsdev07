@@ -1,8 +1,9 @@
 # 👨‍💻 Firdavs Normurodov
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=900&lines=Hello%2C+I+am+a+Full+Stack+Web+Developer+👋;My+name+is+Firdavs+Normurodov+✨;I+build+modern+web+apps+and+websites+🚀;I+am+passionate+about+Linux+and+AI+🧠" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=800&color=00FF00&center=true&vCenter=true&width=850&lines=Hi%2C+I+am+Firdavs+👋;Full+Stack+Web+Developer+🚀;Linux+%26+AI+Enthusiast+🧠" alt="Typing SVG" />
 </p>
+
 
 <p>
   <a href="https://www.linkedin.com/in/firdavs-normurodov-667a85271/">
