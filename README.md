@@ -1,10 +1,12 @@
-<!-- 🟢 Dark Hacker Style README: Firdavs Normurodov -->
+<!-- 🟢 Firdavs Normurodov - Dark Hacker Style -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00CC00&center=true&vCenter=true&width=650&lines=Salom%2C+Men+Firdavs+Normurodov;Full+Stack+Web+Dasturchi;Linux+%26+Docker+Ishqibozi;AI+va+Next.js+Loyihalar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00CC00&center=true&vCenter=true&width=700&lines=Salom%2C+Men+Firdavs+Normurodov;Full+Stack+Web+Dasturchi;Linux+%26+Docker+Ishqibozi;AI+va+Next.js+Loyihalar" alt="Typing SVG" />
 </p>
 
-### 👨‍💻 Men haqimda
+---
+
+### <span style="color:#00CC00">👨‍💻 Men haqimda</span>
 
 <span style="color:#00CC00">
 Salom! Men **Firdavs Normurodov** – zamonaviy web-ilovalar ishlab chiquvchisiman.  
@@ -16,33 +18,38 @@ Salom! Men **Firdavs Normurodov** – zamonaviy web-ilovalar ishlab chiquvchisim
 
 ---
 
-### 🏗 Texnologiyalar
+### <span style="color:#00CC00">🏗 Texnologiyalar</span>
 
-#### 🎨 Frontend
+#### <span style="color:#00CC00">🎨 Frontend</span>  
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap&perline=8" height="50"/>
 
-#### ⚙️ Backend & DevOps
+#### <span style="color:#00CC00">⚙️ Backend & DevOps</span>  
 <img src="https://skillicons.dev/icons?i=nodejs,nest,docker,linux&perline=6" height="50"/>
 
-#### 🗄 Ma’lumotlar bazalari
+#### <span style="color:#00CC00">🗄 Ma’lumotlar bazalari</span>  
 <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=6" height="50"/>
 
 ---
 
-### 📊 GitHub Statistikam
+### <span style="color:#00CC00">📊 GitHub Statistikam</span>
 
-<img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00CC00&icon_color=00CC00" height="160"/>
-<img src="https://streak-stats.demolab.com?user=firdavsdev07&theme=highcontrast&hide_border=true&ring=00CC00&fire=00CC00&currStreakLabel=00CC00" height="160"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=firdavsdev07&show_icons=true&theme=chartreuse-dark&hide_border=true&title_color=00CC00&icon_color=00CC00&text_color=00CC00" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=firdavsdev07&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00CC00&text_color=00CC00" height="160"/>
+</p>
 
 ---
 
-### 🌐 Bog‘lanish
+### <span style="color:#00CC00">🌐 Bog‘lanish</span>
 
 <a href="https://www.instagram.com/firdavs_flow">
   <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
 </a>
 <a href="https://t.me/firdavs2407">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/telegram.svg" height="45" style="filter: invert(43%) sepia(91%) saturate(7323%) hue-rotate(90deg) brightness(102%) contrast(102%);"/>
 </a>
 <a href="https://www.linkedin.com/in/firdavs-normurodov-667a85271/">
   <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
