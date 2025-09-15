@@ -31,29 +31,33 @@
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux/Unix</td>
   </tr>
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux/Unix</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="48"/><br/>pnpm</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
   </tr>
 </table>
 
