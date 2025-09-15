@@ -28,6 +28,7 @@
 ### 🛠️ Languages & Tools
 
 <table align="center">
+  <!-- Row 1: Languages -->
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
@@ -36,6 +37,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
   </tr>
+
+  <!-- Row 2: Frontend -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
@@ -44,21 +47,25 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
   </tr>
+
+  <!-- Row 3: Databases -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux/Unix</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
   </tr>
+
+  <!-- Row 4: DevOps & Tools -->
   <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="48"/><br/>pnpm</td>
-    <td align="center"><br/></td>
-    <td align="center"><br/></td>
-    <td align="center"><br/></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VSCode</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>CI/CD</td>
   </tr>
 </table>
 
