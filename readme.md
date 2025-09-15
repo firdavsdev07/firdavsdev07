@@ -1,4 +1,4 @@
-# 👨‍💻 Firdavs Normurodov
+# Firdavs Normurodov
 
 ### ⚡ Full Stack Developer
 
@@ -28,7 +28,7 @@
 ### 🛠️ Languages & Tools
 
 <table align="center">
-  <!-- Row 1: Languages -->
+  <!-- Row 1 -->
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
@@ -39,7 +39,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
   </tr>
 
-  <!-- Row 2: Frontend & Backend -->
+  <!-- Row 2 -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
@@ -50,7 +50,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
   </tr>
 
-  <!-- Row 3: Database & DevOps -->
+  <!-- Row 3 -->
   <tr>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
@@ -61,7 +61,6 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
   </tr>
 </table>
-
 ---
 
 ### 📊 GitHub Stats
