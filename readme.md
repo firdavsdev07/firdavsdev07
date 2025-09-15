@@ -27,7 +27,7 @@
 
 ### 🛠️ Languages & Tools
 
-<table align="left">
+<table align="center">
   <!-- Row 1 -->
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
