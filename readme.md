@@ -2,10 +2,10 @@
 
 ### ⚡ Full Stack Developer
 
-- 🚀 Web Apps va Websites ishlab chiqaman
-- 🎨 Zamonaviy va qulay **UI/UX dizaynlar** yarataman
+- 🚀 Zamonaviy **Web Apps va Websites** ishlab chiqaman
+- 🎨 Chiroyli va qulay **UI/UX** dizaynlar yarataman
 - ☁️ **Linux, Docker, Cloud** yordamida xavfsiz deploy qilaman
-- 🧠 **Linux va Artificial Intelligence** sohasiga qiziqaman
+- 🧠 **Linux va AI** sohasida chuqurlashmoqdaman
 
 ---
 
@@ -29,31 +29,29 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
     <td align="center"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="60"/><br/>TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="60"/><br/>React</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=next" width="48"/><br/>Next.js</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/>Node.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="48"/><br/>NestJS</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>TailwindCSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=bootstrap" width="48"/><br/>Bootstrap</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"/><br/>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="48"/><br/>MySQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"/><br/>PostgreSQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"/><br/>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"/><br/>Docker</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="48"/><br/>Linux/Unix</td>
   </tr>
   <tr>
-    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"/><br/>Git</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/>Nginx</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="48"/><br/>Figma</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/>VSCode</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
-    <td align="center"><img src="https://skillicons.dev/icons?i=python" width="48"/><br/>Python</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="48"/><br/>pnpm</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
   </tr>
 </table>
 
