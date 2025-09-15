@@ -27,7 +27,7 @@
 
 ### 🛠️ Languages & Tools
 
-<table align="center">
+<table align="left">
   <!-- Row 1 -->
   <tr>
     <td align="center"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="60"/><br/>JavaScript</td>
@@ -61,6 +61,7 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
   </tr>
 </table>
+
 ---
 
 ### 📊 GitHub Stats
