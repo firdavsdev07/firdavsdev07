@@ -2,10 +2,10 @@
 
 ### ⚡ Full Stack Developer
 
-- 🚀 Zamonaviy **Web Apps va Websites** ishlab chiqaman
-- 🎨 Chiroyli va qulay **UI/UX** dizaynlar yarataman
-- ☁️ **Linux, Docker, Cloud** yordamida xavfsiz deploy qilaman
-- 🧠 **Linux va AI** sohasida chuqurlashmoqdaman
+- 🚀 Developing modern **Web Apps and Websites**
+- 🎨 Creating beautiful and user-friendly **UI/UX designs**
+- ☁️ Deploying securely using **Linux, Docker, and Cloud**
+- 🧠 Exploring **Linux and Artificial Intelligence**
 
 ---
 
