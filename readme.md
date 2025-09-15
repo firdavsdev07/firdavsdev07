@@ -52,6 +52,8 @@
     <td align="center"><img src="https://skillicons.dev/icons?i=graphql" width="48"/><br/>GraphQL</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=pnpm" width="48"/><br/>pnpm</td>
     <td align="center"><img src="https://skillicons.dev/icons?i=c" width="48"/><br/>C</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=php" width="48"/><br/>PHP</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=java" width="48"/><br/>Java</td>
   </tr>
 </table>
 
